@@ -4,7 +4,7 @@
 
 ## What it does
 
-This tool allows you to choose servers you wanna play on by blocking relays that you don't want using [iptables](https://linux.die.net/man/8/iptables).
+This tool allows you to choose servers you wanna play on by blocking relays (https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=730) that you don't want using [iptables](https://linux.die.net/man/8/iptables).
 
 ## Installation
 
