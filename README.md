@@ -16,6 +16,14 @@ Just clone the repository with `git clone https://github.com/dom1torii/cs2server
 - Run `chmod +x cs2serverpicker.sh` to make script executable.
 - Run the script with `sudo ./cs2serverpicker.sh` (sudo is important to change firewall rules)
 
+## Notes 
+
+The script is not fully accurate and sometimes can send you to servers that are **routed** through the server you selected.
+
+It's also possible that you won't find the server you selected.
+
+If you have any ideas on how to fix any of these, make a pull request or message me on discord (.domitori)
+
 ## Credits
 
 https://github.com/timo-reymann/bash-tui-toolkit (TUI library)
